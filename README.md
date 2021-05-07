@@ -1,2 +1,2 @@
 # Pizza
-barebones website to test out my abilities in github
+Bare bones website made to test out github
